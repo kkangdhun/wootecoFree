@@ -1,2 +1,2 @@
-# wootecoFree
-Assignment for Wooteco Freecourse
+# wootecoPree
+Assignment for Wooteco Precourse
