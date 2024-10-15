@@ -1,2 +1,2 @@
-# wootecoPree
+# wootecoPre
 Assignment for Wooteco Precourse
